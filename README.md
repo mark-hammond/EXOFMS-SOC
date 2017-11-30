@@ -15,6 +15,19 @@ Copy the XX files from this repo.
 
 ## Usage
 
+ 
+```fortran
+    id_soc_olr = &
+    register_diag_field ( soc_mod_name, 'soc_olr', axes(1:2), Time, &
+               'outgoing longwave radiation', &
+               'watts/m2', missing_value=missing_value               )
+```
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 Set the spectral file at XX, from:
 
 1) XX
@@ -36,3 +49,9 @@ Run the test XX for a lava planet.
 ## Generating Spectral Files
 
 See XX for detailed instructions.
+
+##Acknowledgements
+
+Thanks to the Socrates team and UK Met Office for developing and sharing the model.
+
+Thanks to James Manners for his particular help in getting Socrates coupled to ExoFMS, and for suggesting it in the first place!
