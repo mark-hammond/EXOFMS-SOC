@@ -1,6 +1,6 @@
 # EXOFMS-SOC
 
-![socrates][socrates.jpg]
+![socrates](socrates.jpg)
 
 
 This is an unfinished repo for the coupling of Socrates to Exo-FMS
