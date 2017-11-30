@@ -1,4 +1,4 @@
-# tide_lock_earth-socrates
+# EXOFMS-SOC
 
 This is an unfinished repo for the coupling of Socrates to Exo-FMS
 
